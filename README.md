@@ -1,16 +1,33 @@
-## Hi there 👋
+**Maida Saeed**
+================
 
-<!--
-**maidasaeed-33/maidasaeed-33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final Year Computer Science Student | Java, AI, ML, NLP, Web Development Enthusiast
 
-Here are some ideas to get you started:
+#### About Me
+Hi, I'm Maida Saeed, a final year Computer Science student with a passion for building innovative projects. My expertise lies in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming Languages**: Java
+* **AI/ML**: Machine Learning, Natural Language Processing
+* **Web Development**: Express JS, React JS
+
+#### Projects
+Check out my projects, where I've applied my skills to build:
+
+* [Project 1]: A Java-based chatbot using NLP ([link](https://github.com/your-username/project1))
+* [Project 2]: A web application using Express JS and React JS ([link](https://github.com/your-username/project2))
+* [Project 3]: A machine learning model for image classification ([link](https://github.com/your-username/project3))
+
+#### Skills
+* Programming languages: Java, JavaScript
+* AI/ML: TensorFlow, PyTorch, scikit-learn
+* Web Development: Express JS, React JS, HTML, CSS
+* Databases: MongoDB, MySQL
+
+#### Contact Me
+Feel free to reach out to me on:
+
+* [Email](mailto:your_email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+* [Twitter](https://twitter.com/your-twitter-username)
+
+Let's connect and explore opportunities! 🚀
